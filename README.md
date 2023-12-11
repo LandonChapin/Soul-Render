@@ -9,3 +9,5 @@ You play with the arrow keys
       
 And The Space bar
       - Space to Attack
+
+The game will be run from current file rather than main on pycharm.
