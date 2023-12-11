@@ -6,5 +6,6 @@ You play with the arrow keys
       - Up Arrow to Jump
       - Left Arrow to move Left
       - Right Arrow to move Right
+      
 And The Space bar
       - Space to Attack
